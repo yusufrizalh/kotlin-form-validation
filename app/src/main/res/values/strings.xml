@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="required">Required</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="form_validation">Form Validation</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="submit">Submit</string>
+</resources>
